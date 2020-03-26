@@ -18,7 +18,10 @@
 
 # misc
 .DS_Store
+
+# secrets
 .env
+secrets
 
 # debug
 npm-debug.log*
